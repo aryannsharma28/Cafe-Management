@@ -165,9 +165,9 @@ http://localhost:8080
 <h2>👤 Author</h2>
 
 <p>
-<b>Vishal Soni</b><br/>
-Cloud & DevOps Engineer<br/>
-Email: <a href="mailto:vishalsoni6350@gmail.com">vishalsoni6350@gmail.com</a>
+<b>Aryan Sharma</b><br/>
+Computer Science Undergraduate (Cloud Computing), VIT Bhopal<br/>
+Email: <a href="mailto:aryannsharmaa2807@gmail.com">aryannsharmaa2807@gmail.com</a>
 </p>
 
 <hr/>
